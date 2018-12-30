@@ -44,3 +44,10 @@ Use custom query sets for custom operations on a model
 ## Views
 * name your view
 * prefix names with the app
+* skinny views
+
+## Models
+* fat models - all logic should be here
+
+## Generic Views
+* built in django views that do generic items
